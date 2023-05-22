@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "hum12345",
+        "MONGO_PASSWORD": "luche12345",
+        "MONGO_DB": "kms"
+    }
+}
